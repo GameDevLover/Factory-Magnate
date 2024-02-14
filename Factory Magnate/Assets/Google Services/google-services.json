@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31049684309",
+    "project_id": "big-successfull-game",
+    "storage_bucket": "big-successfull-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31049684309:android:bdb97b9d530ea99a258bdc",
+        "android_client_info": {
+          "package_name": "com.NonchalantSkyscrapersGames.FactoryMagnate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fXo3DU6Zo5LN1VJxj4VfP3dYzxKWRgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
